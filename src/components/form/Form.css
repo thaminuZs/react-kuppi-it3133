@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form .input-box {
+    padding: 10px;
+}
+
+form button {
+    align-self: self-start;
+    padding: 10px;
+}
+
+form select {
+    align-self: self-start;
+}

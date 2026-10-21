@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid tomato;
+    padding: 12px;
+    margin: 15px;
+}
+
+.card img {
+    width: 80px;
+    border-radius: 10px;
+}
+
+.card p {
+    margin: 6px;
+}
